@@ -1,3 +1,3 @@
 # produchoco
-proyecto demo
+Proyecto demo
 Este proyecto aun esta en desarrollo
